@@ -1,0 +1,98 @@
+body {
+  font-family: "Oswald", sans-serif;
+  font-size: 20px;
+  letter-spacing: 0.02em;
+  font-weight: 500;
+  line-height: 25px;
+  color: #2e2f42;
+  background-color: #fff5ee;
+}
+.navigasyon {
+  font-family: "Rubik Mono One", monospace;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 15px;
+}
+.logo {
+  font-family: "Rubik Mono One", monospace;
+  font-weight: 900;
+  font-size: 60px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-decoration: none;
+  background-color: crimson;
+  color: #f2f5a9;
+}
+.contact {
+  font-family: "Rubik Mono One", monospace;
+  color: #ff7f50;
+  text-decoration: none;
+}
+.contact:hover {
+  color: #ff4500;
+}
+.contact:focus {
+  color: #ff4500;
+}
+.hero-baslik {
+  font-family: "Rubik Mono One", sans-serif;
+  font-size: 45;
+  color: crimson;
+}
+.button {
+  font-family: "Rubik Mono One", sans-serif;
+  color: #ff7f50;
+  background-color: #f2f5a9;
+  cursor: pointer;
+}
+.button:hover {
+  background-color: crimson;
+}
+.button:focus {
+  background-color: crimson;
+}
+.section-baslik {
+  font-family: "Rubik Mono One", sans-serif;
+  font-size: 35px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: crimson;
+}
+.resim-baslik {
+  color: #ff7f50;
+}
+.logo-footer {
+  font-family: "Rubik Mono One", monospace;
+  font-weight: 900;
+  font-size: 50px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-decoration: none;
+  background-color: crimson;
+  color: #f2f5a9;
+}
+.iletisim,
+.konum {
+  font-style: normal;
+  color: #ff7f50;
+  text-decoration: none;
+}
+.iletisim:hover {
+  color: #ff4500;
+}
+.iletisim:focus {
+  color: #ff4500;
+}
+.konum:hover {
+  color: #ff4500;
+}
+.konum:focus {
+  color: #ff4500;
+}
+.hero-div {
+  font-size: 30px;
+}
+.paragraf {
+  text-align: center;
+}
